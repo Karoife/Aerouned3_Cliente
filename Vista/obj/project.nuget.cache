@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vgt0O9fv8PrANnH06x1VKJulphil6yzEqIm2BTJkWJILNku2Ba4+0PwlY+g/2PaHS0hduzSsOsP0TY1zyiHezQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joser\\source\\repos\\Aerouned3_Cliente\\Vista\\Vista.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joser\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
